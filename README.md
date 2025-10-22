@@ -18,8 +18,3 @@ Para ejecutar el proyecto localmente, puedes clonar el repositorio:
 2.  **Abrir en Unity:**
     * Asegúrate de tener instalada la versión de Unity especificada.
     * Abre el proyecto a través de Unity Hub seleccionando la carpeta clonada.
-
-## 👥 Desarrollador
-
-* **Nombre:** Carlos De Leon Rosas (Charlie Rosas)
-* **GitHub del Proyecto:** [https://github.com/CharlieRosas/Stale-Knight](https://github.com/CharlieRosas/Stale-Knight)
